@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Umby03/firstrepository/issues"
   },
-  "homepage": "https://github.com/Umby03/firstrepository#readme"
+  "homepage": "https://github.com/Umby03/firstrepository#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
